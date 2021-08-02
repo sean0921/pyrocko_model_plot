@@ -1,0 +1,1 @@
+/home/rau/anaconda3/envs/pyrokco/lib/python3.9/site-packages/pyrocko/data/earthmodels
