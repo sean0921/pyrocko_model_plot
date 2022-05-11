@@ -4,8 +4,8 @@ import pygmt
 import pandas as pd
 from sys import argv
 
-model_type='macintosh_2013'
-#model_type='wu_2009'
+#model_type='macintosh_2013'
+model_type='huang_2014'
 #depth = '15.368'
 depth = '15'
 my_type = '.ew'
